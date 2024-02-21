@@ -1,0 +1,8 @@
+1. Win+R, escribir "cmd" y enter
+2. Para abrir la carpeta del proyecto escribir: "cd C:\Users\Bruno\Desktop\Proyectos\django-password-generator"
+3. Escribir comando: python manage.py runserver
+4. Ingresar a "http://127.0.0.1:8000/"
+5. Para cerrar, Ctr+C
+5. "exit" en cmd
+
+Si hay problemas "pip install flask"
